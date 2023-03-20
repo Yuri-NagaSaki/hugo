@@ -1,0 +1,118 @@
+version: 0.2.X
+title: HAKULA†CHANNEL
+description: Hakula 的个人站！
+defaultTheme: dark
+gitRepo: https://github.com/hakula139/hakula.xyz
+fingerprint: sha256
+images:
+  - /images/hotlink-ok/avatar-lite.webp
+
+app:
+  title: Hakula
+  themeColor: "#000a12"
+  iconColor: "#263238"
+  tileColor: "#263238"
+
+search:
+  enable: true
+  type: algolia
+  contentLength: 4000
+  maxResultLength: 5
+  snippetLength: 50
+  highlightTag: em
+  algolia:
+    index: posts
+    appID: AN2MWDWC48
+    searchKey: f25871d25200d271ffb3ed1db5fe3dce
+
+header:
+  desktopMode: fixed
+  mobileMode: auto
+  title:
+    name: Hakula.XYZ
+
+footer:
+  enable: true
+  hugo: true
+  copyright: true
+  author: true
+  since: 2018
+  license: >
+    <a
+      href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"
+      rel="license external nofollow noopener noreferrer"
+      target="_blank"
+    >CC BY-NC-SA 4.0</a>
+
+section:
+  paginate: 16
+  rss: 16
+
+list:
+  paginate: 16
+  rss: 16
+
+home:
+  rss: 10
+  profile:
+    enable: true
+    avatarUrl: /images/hotlink-ok/avatar-lite.webp
+    title: HAKULA†CHANNEL
+    subtitle: Hakula 的个人站！
+    typeit: true
+    social: true
+  posts:
+    enable: true
+    paginate: 8
+
+social:
+  QQ:
+    Weight: -1
+    Url: /images/social/qq.webp
+    Title: QQ
+    Newtab: true
+    Icon:
+      Class: fab fa-qq fa-fw
+  GitHub: hakula139
+  Linkedin: hakula
+  Telegram: hakulaTG
+  Steam: hakula139
+  Zhihu: hakula139
+  Bilibili: 3507112
+  Email: i@hakula.xyz
+  RSS: true
+
+page:
+  twemoji: false
+  lightgallery: true
+  ruby: true
+  fraction: true
+  fontawesome: true
+  linkToMarkdown: false
+  toc:
+    enable: true
+    keepStatic: false
+    auto: true
+  code:
+    copy: true
+    maxShownLines: 40
+  math:
+    enable: true
+    copyTex: true
+  share:
+    enable: false
+  comment:
+    enable: true
+    twikoo:
+      enable: true
+      visitor: true
+      envId: https://twikoo-api.hakula.xyz
+
+typeit:
+  duration: 0
+
+cdn:
+  data: loli.yml
+
+preconnect:
+  - https://hakula-1257872502.file.myqcloud.com

@@ -1,0 +1,69 @@
+#comments {
+  padding: 1.5rem;
+  margin: 1rem auto;
+  background-color: $card-background-color;
+  @include border-radius($card-border-radius);
+  @include box-shadow(0 .25rem 1rem rgba(0, 0, 0, .2));
+
+  [theme=dark] & {
+    background-color: $card-background-color-dark;
+  }
+
+  #twikoo {
+    .tk-preview-container {
+      img {
+        max-width: 100%;
+      }
+    }
+
+    .tk-comment {
+      .tk-content {
+        @include link(false, false);
+
+        a {
+          @include overflow-wrap(break-word);
+
+          [theme=dark] & b,
+          [theme=dark] & strong {
+            color: $single-link-color-dark;
+          }
+        }
+
+        [theme=dark] a:hover b,
+        [theme=dark] a:hover strong {
+          color: $single-link-hover-color-dark;
+        }
+      }
+
+      .tk-time,
+      .tk-actions {
+        display: inline-block !important;
+        margin: 0 1em 0 0;
+      }
+
+      .tk-action-link {
+        white-space: nowrap;
+      }
+    }
+
+    .tk-expand {
+      width: initial;
+    }
+  }
+
+  .OwO.OwO-open .OwO-body {
+    color: $global-font-color;
+    background-color: darken($global-background-color, 3%);
+
+    [theme=dark] & {
+      color: $global-font-color-dark;
+      background-color: lighten($global-background-color-dark, 3%);
+    }
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  #comments {
+    padding: 1rem;
+  }
+}

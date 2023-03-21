@@ -29,7 +29,7 @@ header:
   desktopMode: fixed
   mobileMode: auto
   title:
-    name: Hakula.XYZ
+    name: 猫猫博客
 
 footer:
   enable: true

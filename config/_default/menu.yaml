@@ -39,15 +39,15 @@ external:
   - identifier: monitor
     title: 状态监控
     pre: <i class="fas fa-heart-pulse fa-fw"></i>
-    url: https://status-sg.hakula.xyz
+    url: https://lycoris.beauty/
     weight: 1
   - identifier: uptime
     title: 服务监控
     pre: <i class="fas fa-chart-simple fa-fw"></i>
-    url: https://stats.uptimerobot.com/r9PvBclkw
+    url: https://status.lycoris.beauty/status/system
     weight: 2
   - identifier: github
     title: 网站源码
     pre: <i class="fab fa-github fa-fw"></i>
-    url: https://github.com/hakula139/hakula.xyz
+    url: https://github.com/Sayyiku/hugo
     weight: 10

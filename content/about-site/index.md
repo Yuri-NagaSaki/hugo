@@ -3,7 +3,7 @@ title: 关于本站
 date: 2022-10-14T15:30:00+08:00
 weight: -2
 
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/70180757.webp
+featuredImage: https://api.boxmoe.com/random.php?size=mw1023
 ---
 
 {{< admonition info 封面出处 >}}

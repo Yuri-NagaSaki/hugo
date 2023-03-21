@@ -3,7 +3,7 @@ title: 留言板
 date: 2018-08-27T23:58:00+08:00
 weight: -3
 
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/67767892.webp
+featuredImage: https://api.boxmoe.com/random.php?size=mw1022
 ---
 
 {{< admonition info 封面出处 >}}

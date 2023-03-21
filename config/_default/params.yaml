@@ -22,8 +22,8 @@ search:
   highlightTag: em
   algolia:
     index: posts
-    appID: AN2MWDWC48
-    searchKey: f25871d25200d271ffb3ed1db5fe3dce
+    appID: 5UUJIHI5XA
+    searchKey: 423d6ba11a00ce805b7d2aa7e2f06ec4
 
 header:
   desktopMode: fixed

@@ -68,18 +68,15 @@ home:
 social:
   QQ:
     Weight: -1
-    Url: /images/social/qq.webp
+    Url: https://cdn.lirica.cn/webp/qq.webp
     Title: QQ
     Newtab: true
     Icon:
       Class: fab fa-qq fa-fw
-  GitHub: hakula139
-  Linkedin: hakula
-  Telegram: hakulaTG
-  Steam: hakula139
-  Zhihu: hakula139
-  Bilibili: 3507112
-  Email: i@hakula.xyz
+  GitHub: Sayyiku
+  Telegram: yuyulatte
+  Bilibili: 267747155
+  Email: sayyikue@gmail.com
   RSS: true
 
 page:

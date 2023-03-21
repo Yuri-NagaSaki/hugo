@@ -4,7 +4,7 @@ date: 2022-06-03T15:14:00+08:00
 
 tags: [数字信号处理, 语音识别, 深度学习, CNN, PyTorch, Python]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00006.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

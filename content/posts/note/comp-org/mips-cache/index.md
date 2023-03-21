@@ -4,7 +4,7 @@ date: 2020-05-24T16:36:00+08:00
 
 tags: [计组, MIPS, Cache, SystemVerilog]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00007.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

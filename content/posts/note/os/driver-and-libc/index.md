@@ -4,7 +4,7 @@ date: 2021-01-24T00:26:00+08:00
 
 tags: [操作系统, ARM, 驱动, C]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00007.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

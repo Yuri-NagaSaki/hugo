@@ -4,7 +4,7 @@ date: 2021-11-05T14:57:00+08:00
 
 tags: [编译, 词法分析, Flex, PCAT, C++]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00010.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

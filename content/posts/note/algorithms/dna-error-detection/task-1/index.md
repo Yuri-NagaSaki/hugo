@@ -4,7 +4,7 @@ date: 2021-05-16T18:00:00+08:00
 
 tags: [算法, 编辑距离, Myers, 差分算法, C++]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00003.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

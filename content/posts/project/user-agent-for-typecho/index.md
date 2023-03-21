@@ -4,7 +4,7 @@ date: 2019-01-27T21:58:00+08:00
 
 tags: [PHP, Typecho]
 categories: [project]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00006.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

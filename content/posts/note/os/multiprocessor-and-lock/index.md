@@ -4,7 +4,7 @@ date: 2020-11-15T23:54:00+08:00
 
 tags: [操作系统, ARM, 锁, C]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00011.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

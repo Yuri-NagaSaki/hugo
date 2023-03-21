@@ -5,7 +5,7 @@ weight: 2
 
 tags: [AVG, Galgame, 评测]
 categories: [avg]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00000.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

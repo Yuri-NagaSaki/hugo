@@ -4,7 +4,7 @@ date: 2021-01-19T03:28:00+08:00
 
 tags: [NLP, 文本生成, 深度学习, GRU, PyTorch, Python]
 categories: [project]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00007.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

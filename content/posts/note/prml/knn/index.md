@@ -4,7 +4,7 @@ date: 2021-04-02T01:50:00+08:00
 
 tags: [PRML, 机器学习, KNN, NumPy, Python]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00008.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

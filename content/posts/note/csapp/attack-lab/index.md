@@ -4,7 +4,7 @@ date: 2019-10-26T22:16:00+08:00
 
 tags: [CS:APP, 汇编, 缓冲区溢出]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00012.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

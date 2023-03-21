@@ -4,7 +4,7 @@ date: 2021-06-28T23:59:00+08:00
 
 tags: [算法, 模糊匹配, C++]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00004.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

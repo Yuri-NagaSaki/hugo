@@ -4,7 +4,7 @@ date: 2020-05-12T22:37:00+08:00
 
 tags: [数据库, MySQL, Go, REST]
 categories: [project]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00008.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

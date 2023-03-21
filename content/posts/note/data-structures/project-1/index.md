@@ -4,7 +4,7 @@ date: 2019-11-25T00:22:00+08:00
 
 tags: [数据结构, 排序]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00002.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

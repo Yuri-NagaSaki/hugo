@@ -4,7 +4,7 @@ date: 2022-05-27T04:29:00+08:00
 
 tags: [数字信号处理, 端点检测, MFCC, Python]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00004.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

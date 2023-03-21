@@ -4,7 +4,7 @@ date: 2020-10-31T18:19:00+08:00
 
 tags: [操作系统, ARM, 中断, C]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00009.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

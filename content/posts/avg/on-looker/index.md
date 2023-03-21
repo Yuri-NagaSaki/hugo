@@ -4,7 +4,7 @@ date: 2020-07-21T17:45:00+08:00
 
 tags: [AVG, Galgame, 评测]
 categories: [avg]
-featuredImage: assets/cg-mzy-te.webp
+featuredImage: https://cdn.lirica.cn/webp/00001.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

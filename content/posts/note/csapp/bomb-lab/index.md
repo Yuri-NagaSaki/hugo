@@ -4,7 +4,7 @@ date: 2019-10-23T01:27:00+08:00
 
 tags: [CS:APP, 汇编]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00013.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

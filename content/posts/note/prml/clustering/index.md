@@ -4,7 +4,7 @@ date: 2021-06-14T03:00:00+08:00
 
 tags: [PRML, 机器学习, 无监督学习, K-Means, GMM, 聚类算法, NumPy, Python]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00001.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

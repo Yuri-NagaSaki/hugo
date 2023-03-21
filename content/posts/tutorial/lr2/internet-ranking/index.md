@@ -4,7 +4,7 @@ date: 2019-04-02T16:26:00+08:00
 
 tags: [BMS, LR2]
 categories: [tutorial]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00013.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

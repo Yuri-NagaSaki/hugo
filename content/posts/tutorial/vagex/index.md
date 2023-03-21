@@ -4,7 +4,7 @@ date: 2019-04-11T17:48:00+08:00
 
 tags: [VPS, Vagex, 挂机]
 categories: [tutorial]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00006.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

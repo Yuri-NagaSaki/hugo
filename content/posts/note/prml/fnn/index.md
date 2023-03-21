@@ -4,7 +4,7 @@ date: 2021-05-02T19:30:00+08:00
 
 tags: [PRML, 机器学习, 深度学习, FNN, NumPy, Python]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00007.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

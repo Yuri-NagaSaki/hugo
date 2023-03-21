@@ -4,7 +4,7 @@ date: 2019-01-14T21:42:00+08:00
 
 tags: [LR2]
 categories: [tutorial]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00009.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

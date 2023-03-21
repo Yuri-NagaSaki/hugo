@@ -5,7 +5,7 @@ weight: 1
 
 tags: [BMS, LR2]
 categories: [tutorial]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00011.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

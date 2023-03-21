@@ -4,7 +4,7 @@ date: 2020-01-31T03:21:00+08:00
 
 tags: [VPS]
 categories: [vps]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00007.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

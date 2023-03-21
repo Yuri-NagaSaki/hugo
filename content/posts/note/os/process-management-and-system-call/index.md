@@ -4,7 +4,7 @@ date: 2020-12-09T02:08:00+08:00
 
 tags: [操作系统, ARM, 进程, 系统调用, C]
 categories: [note]
-featuredImage: https://api.boxmoe.com/random.php
+featuredImage: https://cdn.lirica.cn/webp/00012.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

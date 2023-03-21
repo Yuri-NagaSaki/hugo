@@ -2,7 +2,7 @@ baseURL: https://hugo.catcat.blog
 defaultContentLanguage: zh-cn
 languageCode: zh-CN
 timeZone: Asia/Shanghai
-title: HAKULA†CHANNEL
+title: 猫猫博客
 theme: LoveIt
 
 enableEmoji: true

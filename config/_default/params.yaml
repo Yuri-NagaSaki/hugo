@@ -21,7 +21,7 @@ search:
   snippetLength: 50
   highlightTag: em
   algolia:
-    index: posts
+    index: sakura
     appID: 5UUJIHI5XA
     searchKey: 423d6ba11a00ce805b7d2aa7e2f06ec4
 

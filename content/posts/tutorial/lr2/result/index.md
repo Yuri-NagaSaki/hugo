@@ -4,7 +4,7 @@ date: 2019-02-10T20:31:00+08:00
 
 tags: [LR2]
 categories: [tutorial]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/59521621.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

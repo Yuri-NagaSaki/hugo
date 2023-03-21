@@ -4,7 +4,7 @@ date: 2019-01-27T21:58:00+08:00
 
 tags: [PHP, Typecho]
 categories: [project]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/39186698.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

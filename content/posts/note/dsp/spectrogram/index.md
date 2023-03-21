@@ -4,7 +4,7 @@ date: 2022-05-12T08:50:00+08:00
 
 tags: [数字信号处理, 语谱图, Python]
 categories: [note]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/102257565.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

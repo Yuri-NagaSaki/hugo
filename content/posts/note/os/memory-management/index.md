@@ -4,7 +4,7 @@ date: 2020-10-24T16:31:00+08:00
 
 tags: [操作系统, ARM, 内存管理, C]
 categories: [note]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/83708256.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

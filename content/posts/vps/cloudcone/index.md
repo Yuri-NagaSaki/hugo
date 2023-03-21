@@ -4,7 +4,7 @@ date: 2020-01-31T03:21:00+08:00
 
 tags: [VPS]
 categories: [vps]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/cloudcone.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

@@ -4,7 +4,7 @@ date: 2022-03-26T01:37:00+08:00
 
 tags: [数字信号处理, FFT, Python]
 categories: [note]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/102184125.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

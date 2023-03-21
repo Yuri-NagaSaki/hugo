@@ -4,7 +4,7 @@ date: 2020-05-12T22:37:00+08:00
 
 tags: [数据库, MySQL, Go, REST]
 categories: [project]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/69321889.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

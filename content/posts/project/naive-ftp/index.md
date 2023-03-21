@@ -4,7 +4,7 @@ date: 2021-01-11T03:08:00+08:00
 
 tags: [计网, FTP, Socket 编程, Python, Vue, TypeScript]
 categories: [project]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/86286793.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

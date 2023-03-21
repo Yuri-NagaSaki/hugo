@@ -4,7 +4,7 @@ date: 2019-10-23T01:27:00+08:00
 
 tags: [CS:APP, 汇编]
 categories: [note]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/csapp.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

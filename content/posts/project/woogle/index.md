@@ -4,7 +4,7 @@ date: 2021-12-17T16:45:00+08:00
 
 tags: [分布式系统, 倒排索引, Hadoop, MapReduce, Java]
 categories: [project]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/94278235.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

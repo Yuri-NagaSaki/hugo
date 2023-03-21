@@ -4,7 +4,7 @@ date: 2022-01-01T21:18:00+08:00
 
 tags: [可视化, HTML5, Canvas, TypeScript]
 categories: [note]
-featuredImage: https://hakula-1257872502.file.myqcloud.com/images/article-covers/82818849.webp
+featuredImage: https://api.boxmoe.com/random.php
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

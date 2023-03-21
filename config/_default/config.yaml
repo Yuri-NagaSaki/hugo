@@ -1,4 +1,4 @@
-baseURL: https://hakula.xyz
+baseURL: https://hugo.catcat.blog
 defaultContentLanguage: zh-cn
 languageCode: zh-CN
 timeZone: Asia/Shanghai
@@ -11,9 +11,9 @@ enableRobotsTXT: true
 hasCJKLanguage: true
 
 author:
-  name: Hakula
-  email: i@hakula.xyz
-  link: https://hakula.xyz
+  name: sayyiku
+  email: sayyikue@gmail.com
+  link: https://hugo.catcat.blog
 
 mediaTypes:
   text/plain:

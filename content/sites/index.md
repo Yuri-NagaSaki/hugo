@@ -34,6 +34,6 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1027
 
 ## 其他
 
-{{< site "赞助本站" "https://afdian.net/a/hakula" "如果本站对你有帮助的话 😙" "/images/links/100018857.webp" >}}
+{{< site "赞助本站" "" "如果本站对你有帮助的话 😙" "/images/links/100018857.webp" >}}
 
 {{< site "提问的智慧" "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md" "如果你没有看过，那提问前推荐看看" "/images/links/95578205.webp" >}}

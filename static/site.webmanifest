@@ -1,14 +1,14 @@
 {
-  "name": "HAKULA†CHANNEL",
-  "short_name": "Hakula",
+  "name": "猫猫博客",
+  "short_name": "Sayyiku",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "https://i.imgtg.com/2023/02/25/VMvDP.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "https://i.imgtg.com/2023/02/25/VMvDP.png",
       "sizes": "512x512",
       "type": "image/png"
     }

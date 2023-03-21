@@ -1,7 +1,6 @@
 ---
 title: AVG 个人评测数据
 date: 2016-07-05T03:48:00+08:00
-weight: 2
 
 tags: [AVG, Galgame, 评测]
 categories: [avg]

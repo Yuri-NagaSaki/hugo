@@ -1,11 +1,11 @@
 version: 0.2.X
-title: HAKULA†CHANNEL
-description: Hakula 的个人站！
+title: CatCat
+description: 猫猫博客
 defaultTheme: dark
-gitRepo: https://github.com/hakula139/hakula.xyz
+gitRepo: https://github.com/Sayyiku
 fingerprint: sha256
 images:
-  - /images/hotlink-ok/avatar-lite.webp
+  - https://cdn.lirica.cn/wordpress/2023/03/20230321091445718.webp
 
 app:
   title: Hakula
@@ -56,9 +56,9 @@ home:
   rss: 10
   profile:
     enable: true
-    avatarUrl: /images/hotlink-ok/avatar-lite.webp
-    title: HAKULA†CHANNEL
-    subtitle: Hakula 的个人站！
+    avatarUrl: https://cdn.lirica.cn/wordpress/2023/03/20230321091445718.webp
+    title: 猫猫博客
+    subtitle: Chaos is a ladder!
     typeit: true
     social: true
   posts:
@@ -106,7 +106,7 @@ page:
     twikoo:
       enable: true
       visitor: true
-      envId: https://twikoo-api.hakula.xyz
+      envId: https://catcat.blog
 
 typeit:
   duration: 0

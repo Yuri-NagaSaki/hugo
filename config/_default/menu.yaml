@@ -39,7 +39,7 @@ external:
   - identifier: monitor
     title: 状态监控
     pre: <i class="fas fa-heart-pulse fa-fw"></i>
-    url: https://lycoris.beauty/
+    url: https://uptime.catcat.blog/
     weight: 1
   - identifier: uptime
     title: 服务监控

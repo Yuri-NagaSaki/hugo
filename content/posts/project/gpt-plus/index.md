@@ -1,7 +1,7 @@
 ---
 title: "从零开通ChatGPT Plus"
 date: 2023-03-22T03:08:00+08:00
-
+weight: 2
 tags: [GPT]
 categories: [project]
 featuredImage: https://cdn.lirica.cn/webp/00007.webp

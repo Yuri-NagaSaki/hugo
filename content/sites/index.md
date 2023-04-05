@@ -20,6 +20,10 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1027
 
 {{< site "帕琪 knowledge" "https://pakiknowledge.pages.dev" "帕琪的小屋" "https://pakiknowledge.pages.dev/img/FlEQiGPaAAEqovl.jpg" >}}
 
+{{< site "solstice23’s Blog" "https://solstice23.top/" "solstice23’s Blog" "https://solstice23.top/friendlink_image/avatar/" >}}
+
+{{< site "叶子的花园" "https://mskclover.com/" "叶子的花园" "https://telegraph-image-1w5.pages.dev/file/4e2ae34e35b73336f87eb.jpg" >}}
+
 ## 本站链接
 
 {{< site "HAKULA†BMS" "https://bms.hakula.xyz" "🎶 本站 BMS 区，感谢各位支持！" "/images/links/94964162.webp" >}}

@@ -75,7 +75,7 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1024
 
 | 游戏名               | ID                              | 段位                      |           时间 |
 | :------------------- | :------------------------------ | :------------------------ | -------------: |
-| [雀魂 (CN)][majsoul] | [Hakula (68993162)][majsoul-me] | 四麻 雀圣一 / 三麻 雀豪二 | 2019-01 ~ 至今 |
+| [雀魂 (CN)][majsoul] | [月潞)][majsoul-me] | 四麻 雀圣一 / 三麻 雀豪二 | 2019-01 ~ 至今 |
 
 [majsoul]: https://www.maj-soul.net
 

@@ -3,6 +3,11 @@ title: "<strong>Debian 11 使用 Docker 安装 Plausible Analytics 自建网站�
 date: "2023-02-26"
 categories: 
   - "docker"
+featuredImage: https://cdn.lirica.cn/webp/00009.webp
+license: CC BY-NC-SA 4.0
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
 ---
 
 > 原文地址 [u.sb](https://u.sb/docker-plausible/)

@@ -3,6 +3,11 @@ title: "Docker  Misskey"
 date: "2023-04-03"
 categories: 
   - "docker"
+featuredImage: https://cdn.lirica.cn/webp/00006.webp
+license: CC BY-NC-SA 4.0
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
 ---
 
 ![](https://catcat.blog/wp-content/uploads/2023/04/image-14.png)

@@ -10,26 +10,6 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1024
 [そらたび - @凪白みと](https://www.pixiv.net/artworks/64035231)
 {{< /admonition >}}
 
-## :briefcase: 工作经历
-
-| 公司                  | 岗位             |              时间 |
-| :-------------------- | :--------------- | ----------------: |
-| 腾讯 / IEG / 天美 T1  | 后台开发         |    2021-07 ~ 至今 |
-| 字节跳动 / 飞书 / RTC | 后台开发（实习） | 2021-03 ~ 2021-06 |
-
-## :mortar_board: 教育经历
-
-| 学校           | 专业 / 班级                  |              时间 |
-| :------------- | :--------------------------- | ----------------: |
-| 复旦大学       | 计算机科学与技术（拔尖计划） | 2018-09 ~ 2022-07 |
-| 华东师大二附中 | 基础科学试验班               | 2015-09 ~ 2018-06 |
-
-## :star2: 一些成绩
-
-| 竞赛 / 测试   | 名次 / 分数           |    时间 |
-| :------------ | :-------------------- | ------: |
-| CET-6         | 678 = 249 + 243 + 186 | 2019-06 |
-| 第 34 届 CPhO | 上海赛区 省一 #16     | 2017-09 |
 
 ## :hammer_and_wrench: 技术
 
@@ -79,57 +59,18 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1024
 
 | 硬件   | 设备                                      |
 | :----- | :---------------------------------------- |
-| PC     | MacBook Pro (14-inch, Apple M1 Pro, 2021) |
-| 键盘   | CORSAIR Gaming K70 - Cherry MX Red        |
-| 鼠标   | Logitech G304 Lightspeed                  |
+| PC     | MacBook Pro (16-inch, Apple M2 Pro) |
+| 键盘   | varmilo - 樱花 -静电容雏菊黄轴    varmilo - 尤加利 -静电容昙花白轴    |
+| 鼠标   | MX Master 3s                  |
 | 显示器 | LG 27GP95R                                |
 
 {{< /style >}}
 
-### 公司
-
-{{< style "table { min-width: initial; th, td { white-space: nowrap; } }" >}}
-
-| 硬件   | 设备                                      |
-| :----- | :---------------------------------------- |
-| PC     | MacBook Pro (16-inch, Apple M1 Pro, 2021) |
-| 键盘   | NiZ Plum x108 EC-Bluetooth 35G Black      |
-| 鼠标   | Razer Basilisk V3                         |
-| 显示器 | DELL P2721Q                               |
-| 显示器 | PHILIPS 278B1                             |
-
 {{< /style >}}
 
-## :video_game: 游戏
+
 
 {{< image src="assets/you-need-more-practice.webp" alt="不为所动，做更专业的自己" >}}
-
-### 音游
-
-{{< style "table { min-width: initial; th, td { white-space: nowrap; } }" >}}
-
-| 游戏名                 | ID                             | 水平                                                |              时间 |
-| :--------------------- | :----------------------------- | :-------------------------------------------------- | ----------------: |
-| [発狂 BMS][lr2ir]      | [Hakula♪ (122423)][lr2ir-me]   | SP★05 / 実力: [★13.26][walkure] / [点灯情况][lamps] | 2016-09 ~ 2019-02 |
-| [LLSIF (JP)][llsif]    | はくら (235609666)             | 全曲无判 FC，☆12 平均 P 率约 95%                    | 2015-11 ~ 2018-01 |
-| [BeatStage][beatstage] | [hakula_1234567][beatstage-me] | 最高 #1                                             | 2013-08 ~ 2018-08 |
-
-[lr2ir]: http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=search&type=insane
-[lr2ir-me]: http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=mypage&playerid=122423
-[walkure]: http://walkure.net/hakkyou/recommended_mypage.html?playerid=122423
-[lamps]: http://www.notepara.com/bms_table/insane1/122423
-[llsif]: https://lovelive-sif.bushimo.jp
-[beatstage]: https://www.beatstage.com
-[beatstage-me]: https://www.beatstage.com/profile/16666
-
-{{< /style >}}
-
-### Galgame
-
-- [AVG 个人评测数据](/posts/avg/impressions)
-- [AVG 评测 - 哔哩哔哩专栏](https://www.bilibili.com/read/readlist/rl228822)
-- [Bangumi 番组计划](https://bgm.tv/user/hakula_1234567)
-
 ### 立直麻将
 
 {{< style "table { min-width: initial; th, td { white-space: nowrap; } }" >}}
@@ -139,21 +80,11 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1024
 | [雀魂 (CN)][majsoul] | [Hakula (68993162)][majsoul-me] | 四麻 雀圣一 / 三麻 雀豪二 | 2019-01 ~ 至今 |
 
 [majsoul]: https://www.maj-soul.net
-[majsoul-me]: https://amae-koromo.sapk.ch/player/697658
+
 
 {{< /style >}}
 
-### 手游
 
-{{< style "table { min-width: initial; th, td { white-space: nowrap; } }" >}}
-
-| 游戏名                      | ID             |           时间 |
-| :-------------------------- | :------------- | -------------: |
-| [明日方舟 (CN, 官服)][arkn] | Hakula (#2397) | 2019-06 ~ 至今 |
-
-[arkn]: https://ak.hypergryph.com
-
-{{< /style >}}
 
 ## :headphones: 音乐
 

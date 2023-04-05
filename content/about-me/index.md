@@ -66,8 +66,6 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1024
 
 {{< /style >}}
 
-{{< /style >}}
-
 
 
 {{< image src="assets/you-need-more-practice.webp" alt="不为所动，做更专业的自己" >}}

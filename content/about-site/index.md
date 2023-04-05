@@ -19,13 +19,13 @@ featuredImage: https://api.boxmoe.com/random.php?size=mw1023
 | 框架 | [Hugo]                                        |
 | 主题 | [LoveIt] - [@Dillon]                          |
 | 评论 | [Twikoo]                                      |
-| VPS  | [Vercel][Vercel] |
+| VPS  | [Vercel] |
 | DNS  | [Cloudflare]                                  |
 | CDN  | [Cloudflare]                                  |
 | 图床 | [腾讯云 COS][COS] & [兰空图床][Lsky]          |
 | 网盘 | [OneDrive]                            |
 
-
+[Vercel]: https://vercel.com/
 [@Dillon]: https://github.com/dillonzq
 [CloudCone]: /links/cloudcone-cn
 [Cloudflare]: https://www.cloudflare.com

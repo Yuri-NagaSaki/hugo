@@ -44,7 +44,7 @@ external:
   - identifier: uptime
     title: 服务监控
     pre: <i class="fas fa-chart-simple fa-fw"></i>
-    url: https://status.lycoris.beauty/status/system
+    url: https://probe.catcat.blog/status/system
     weight: 2
   - identifier: github
     title: 网站源码

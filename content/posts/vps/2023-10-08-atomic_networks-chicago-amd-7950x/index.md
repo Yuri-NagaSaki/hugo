@@ -517,7 +517,7 @@ Idle Latency:     23.68 ms   (jitter: 0.03ms, low: 23.65ms, high: 23.70ms)
  Result URL: https://www.speedtest.net/result/c/9b905662-e8f5-4a9f-be59-466d08ab9278
 ```
 
-![](https://www.speedtest.net/result/c/9b905662-e8f5-4a9f-be59-466d08ab9278)
+![](https://catcat.blog/wp-content/uploads/2023/10/image-7-768x279.png)
 
 ### 流媒体解锁测试
 

@@ -3,7 +3,6 @@ title: "DutchIS  荷兰 AMD EPYC Milan 7313  测评"
 date: "2023-10-06"
 categories: 
   - "vps"
-  - "performance"
   - "eu"
 ---
 

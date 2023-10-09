@@ -2,8 +2,7 @@
 title: "Kubectl 常用命令"
 date: "2023-10-07"
 categories: 
-  - "k8s"
-  - "laboratory"
+  - "Kubernetes"
 ---
 
 ## 1\. kubectl 命令摘要

@@ -4,7 +4,6 @@ date: "2023-10-03"
 categories: 
   - "vps"
   - "sg"
-  - "special"
 ---
 
 ## 套餐配置

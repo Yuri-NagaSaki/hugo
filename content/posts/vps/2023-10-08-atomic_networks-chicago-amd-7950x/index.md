@@ -3,8 +3,6 @@ title: "Atomic_Networks 芝加哥 AMD 7950X 测评"
 date: "2023-10-08"
 categories: 
   - "vps"
-  - "laboratory"
-  - "performance"
   - "usa"
 ---
 

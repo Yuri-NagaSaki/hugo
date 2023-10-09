@@ -3,7 +3,6 @@ title: "HXServers 洛杉矶 AMD 7950X 测评"
 date: "2023-10-03"
 categories: 
   - "vps"
-  - "special"
   - "usa"
 ---
 

@@ -4,7 +4,7 @@ date: "2023-02-23"
 weight: 1
 categories: 
   - "vps"
-featuredImage: https://cdn.lirica.cn/webp/00003.webp
+featuredImage: https://cdn.lirica.cn/wordpress/2023/07/109615256_p0.webp
 license: CC BY-NC-SA 4.0
 
 hiddenFromHomePage: false

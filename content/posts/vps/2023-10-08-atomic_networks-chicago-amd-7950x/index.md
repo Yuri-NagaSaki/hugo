@@ -503,10 +503,21 @@ System Benchmarks Index Score                                        1970.8
 ### Speedtest
 
 ```
-root@catcat:~# speedtest   Speedtest by Ookla      Server: Kansas Research and Education Network - Wichita, KS (id: 20531)         ISP: Atomic-networks-1Idle Latency:    23.68 ms   (jitter: 0.03ms, low: 23.65ms, high: 23.70ms)    Download:   966.52 Mbps (data used: 1.2 GB)                                                                    24.09 ms   (jitter: 0.11ms, low: 23.76ms, high: 24.36ms)      Upload:  1033.12 Mbps (data used: 1.5 GB)                                                                    23.80 ms   (jitter: 0.10ms, low: 23.68ms, high: 24.56ms) Packet Loss:     0.0%  Result URL: https://www.speedtest.net/result/c/9b905662-e8f5-4a9f-be59-466d08ab9278
+   Speedtest by Ookla
+
+      Server: Kansas Research and Education Network - Wichita, KS (id: 20531)  
+         ISP: Atomic-networks-1
+Idle Latency:     23.68 ms   (jitter: 0.03ms, low: 23.65ms, high: 23.70ms)
+    Download:   Download:   966.52 Mbps (data used: 1.2 GB)
+                 24.09 ms   (jitter: 0.11ms, low: 23.76ms, high: 24.36ms)
+      Upload:  1033.12 Mbps (data used: 1.5 GB)
+                  23.80 ms   (jitter: 0.10ms, low: 23.68ms, high: 24.56ms)
+ Packet Loss:     0.0%
+
+ Result URL: https://www.speedtest.net/result/c/9b905662-e8f5-4a9f-be59-466d08ab9278
 ```
 
-![](https://catcat.blog/wp-content/uploads/2023/10/image-7-1024x372.png)
+![](https://www.speedtest.net/result/c/9b905662-e8f5-4a9f-be59-466d08ab9278)
 
 ### 流媒体解锁测试
 

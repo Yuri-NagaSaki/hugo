@@ -4,7 +4,6 @@ date: "2023-09-16"
 categories: 
   - "vps"
   - "eu"
-  - "special"
 ---
 
 ### 融合怪脚本测试

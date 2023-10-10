@@ -4,7 +4,6 @@ date: "2023-09-12"
 categories: 
   - "vps"
   - "俄罗斯"
-  - "performance"
 ---
 
 > ## 套餐

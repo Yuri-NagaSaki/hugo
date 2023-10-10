@@ -3,7 +3,6 @@ title: "AlphaVPS 洛杉矶 AMD 7700X 测评"
 date: "2023-09-07"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

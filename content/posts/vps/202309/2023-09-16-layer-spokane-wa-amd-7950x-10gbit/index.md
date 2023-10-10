@@ -3,7 +3,6 @@ title: "Layer Spokane-WA AMD 7950X 10Gbit  测评"
 date: "2023-09-16"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

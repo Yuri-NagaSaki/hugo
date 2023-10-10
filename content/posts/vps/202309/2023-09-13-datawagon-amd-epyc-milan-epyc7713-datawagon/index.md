@@ -3,7 +3,6 @@ title: "DATAWAGON AMD Epyc Milan  (Epyc7713)  测试"
 date: "2023-09-13"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

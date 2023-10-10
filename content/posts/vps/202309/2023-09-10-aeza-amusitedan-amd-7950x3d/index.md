@@ -3,7 +3,6 @@ title: "Aeza Amusitedan AMD 7950X3D 测评"
 date: "2023-09-10"
 categories: 
   - "vps"
-  - "performance"
   - "eu"
 ---
 

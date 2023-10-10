@@ -3,7 +3,6 @@ title: "AlphaVPS US AMD 7700X 测试"
 date: "2023-09-17"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

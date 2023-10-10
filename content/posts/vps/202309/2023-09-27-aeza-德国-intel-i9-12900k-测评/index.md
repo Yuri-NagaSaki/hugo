@@ -3,8 +3,6 @@ title: "Aeza DE Intel i9-12900K 测评"
 date: "2023-09-27"
 categories: 
   - "vps"
-  - "laboratory"
-  - "performance"
   - "eu"
 ---
 

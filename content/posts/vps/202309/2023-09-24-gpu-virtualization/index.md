@@ -2,7 +2,6 @@
 title: "GPU 虚拟化研究和方案"
 date: "2023-09-24"
 categories: 
-  - "gpu"
   - "laboratory"
 ---
 

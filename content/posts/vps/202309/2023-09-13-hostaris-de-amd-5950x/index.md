@@ -3,7 +3,6 @@ title: "Hostaris 德国 AMD 5950X 测试"
 date: "2023-09-13"
 categories: 
   - "vps"
-  - "performance"
   - "eu"
 ---
 

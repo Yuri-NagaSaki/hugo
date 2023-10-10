@@ -3,7 +3,6 @@ title: "英国 AllHost AMD 7900 测评"
 date: "2023-09-08"
 categories: 
   - "vps"
-  - "performance"
   - "eu"
 ---
 

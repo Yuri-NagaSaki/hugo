@@ -3,7 +3,6 @@ title: "Aeza Stockholm AMD 7950X3D 测评"
 date: "2023-09-09"
 categories: 
   - "vps"
-  - "performance"
   - "eu"
 ---
 

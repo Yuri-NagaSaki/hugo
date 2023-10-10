@@ -3,7 +3,7 @@ title: "CrownCloud DE AMD 7950X测试"
 date: "2023-09-16"
 categories: 
   - "vps"
-  - "jp"
+  - "eu"
 ---
 
 > ## 套餐

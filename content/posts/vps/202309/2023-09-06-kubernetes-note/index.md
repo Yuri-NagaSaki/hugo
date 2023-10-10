@@ -3,7 +3,6 @@ title: "Kubernetes 笔记"
 date: "2023-09-06"
 categories: 
   - "k8s"
-  - "laboratory"
 ---
 
 # 1\. Kubernetes介绍

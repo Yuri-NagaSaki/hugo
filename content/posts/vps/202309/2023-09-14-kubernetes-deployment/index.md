@@ -3,7 +3,6 @@ title: "Kubernetes 部署应用到集群中"
 date: "2023-09-14"
 categories: 
   - "k8s"
-  - "laboratory"
 ---
 
 #### 命令行运行

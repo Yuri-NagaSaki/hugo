@@ -3,7 +3,6 @@ title: "Atomic_Networks 洛杉矶7900测评"
 date: "2023-09-04"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

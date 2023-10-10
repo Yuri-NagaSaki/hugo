@@ -3,7 +3,6 @@ title: "Madcityservers 7950x 测评"
 date: "2023-09-04"
 categories: 
   - "vps"
-  - "performance"
   - "usa"
 ---
 

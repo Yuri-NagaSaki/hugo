@@ -11,7 +11,6 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 ---
 
-记录一些常见的vps脚本
 ## 1.vps体检脚本
 
 ```

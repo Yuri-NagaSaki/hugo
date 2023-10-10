@@ -3,7 +3,6 @@ title: "Debian 12 安装 Kubernetes，并配置主从节点（kubeadm方式）"
 date: "2023-09-20"
 categories: 
   - "k8s"
-  - "laboratory"
 ---
 
 记录 Kubernetes 的安装与配置步骤。这次使用 kubeadm。
